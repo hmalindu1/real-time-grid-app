@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px 12px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+th {
+  cursor: pointer;
+}
+
+th span {
+  margin-left: 8px;
+  font-size: 0.8em;
+}
